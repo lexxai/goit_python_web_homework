@@ -1,5 +1,4 @@
-# goit python web homeworks
-ALL goit_python_web_homeworks
+# Shcool GoIT. Course: Python Web. Homework.
 
 1. https://github.com/lexxai/goit_python_web_hw_01/tree/dev-lexxai-web-hw01
   
