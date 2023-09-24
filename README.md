@@ -1,0 +1,2 @@
+# goit_python_web_homeworks
+ALL goit_python_web_homeworks
