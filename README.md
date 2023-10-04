@@ -33,7 +33,14 @@
 
     GoIT, Python WEB, Homework number 06. SQL 
 
-    #python #docker #sql #homework #sqlite3 #goit 
+    #python #docker #sql #homework #sqlite3 #goit
+
+7. https://github.com/lexxai/goit_python_web_hw_07
+
+   GoIT, Python WEB, Homework number 07. SQL. ORM. SQLAlchemy. Alembic.
+
+   #python #docker #sql #homework #pg #postgres #sqlalchemy #alembic #goit
+
 
    
 
