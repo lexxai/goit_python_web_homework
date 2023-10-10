@@ -39,7 +39,13 @@
 
    GoIT, Python WEB, Homework number 07. SQL. ORM. SQLAlchemy. Alembic.
 
-   #python #docker #sql #homework #pg #postgres #sqlalchemy #alembic #goit
+   #python #docker #sql #homework #pg #postgres #sqlalchemy #alembic #goit 
+
+8. https://github.com/lexxai/goit_python_web_hw_08
+
+   GoIT, Python WEB, Homework number 08. NoSQL. MongoDB. Redis. RabbitMQ. Docker.
+
+   #python #docker #NoSQL #homework #MongoDB #sqlalchemy #Redis #goit #RabbitMQ 
 
 
    
