@@ -45,7 +45,14 @@
 
    GoIT, Python WEB, Homework number 08. NoSQL. MongoDB. Redis. RabbitMQ. Docker.
 
-   #python #docker #NoSQL #homework #MongoDB #sqlalchemy #Redis #goit #RabbitMQ 
+   #python #docker #NoSQL #homework #MongoDB #sqlalchemy #Redis #goit #RabbitMQ
+
+9. https://github.com/lexxai/goit_python_web_hw_09
+
+   GoIT, Python WEB, Homework number 09. Web-scraping. BeautifulSoup. NoSQL. MongoDB. Scrapy. Docker. 
+
+   #python #docker #NoSQL #homework #MongoDB #BeautifulSoup #Scrapy
+
 
 
    
