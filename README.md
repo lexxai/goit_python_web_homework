@@ -53,10 +53,21 @@
 
    #python #docker #NoSQL #homework #MongoDB #BeautifulSoup #Scrapy
 
-10. (prepend)  https://github.com/lexxai/goit_python_web_django_lect_02_notes
+10.
+    - (prepend)  https://github.com/lexxai/goit_python_web_django_lect_02_notes
 
-    GoIT, Python WEB, Prepend Homework number 10. Django. Lection Notes. PostgreSQL. Docker. Javascript. Pico.css
-    #Django. #PostgreSQL. #Docker. #Javascript. #Pico.css #python 
+      GoIT, Python WEB, Prepend Homework number 10. Django. Lection Notes. PostgreSQL. Docker. Javascript. Pico.css
+      
+      #Django. #PostgreSQL. #Docker. #Javascript. #Pico.css #python
+
+    - (Homework)  https://github.com/lexxai/goit_python_web_hw_10
+
+      GoIT, Python WEB, Homework number 10. Django. PostgreSQL. Docker. MongoDB. Bootstraps
+      
+      #Django. #PostgreSQL. #Docker. #Javascript. #Bootstraps #python
+
+
+
 
 
 
