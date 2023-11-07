@@ -54,30 +54,30 @@
    #python #docker #NoSQL #homework #MongoDB #BeautifulSoup #Scrapy
 
 10.
-    - (prepend)  https://github.com/lexxai/goit_python_web_django_lect_02_notes
-
-      GoIT, Python WEB, Prepend Homework number 10. Django. Lection Notes. PostgreSQL. Docker. Javascript. Pico.css
-      
-      #Django. #PostgreSQL. #Docker. #Javascript. #Pico.css #python
-
     - (Homework)  https://github.com/lexxai/goit_python_web_hw_10
 
       GoIT, Python WEB, Homework number 10. Django. PostgreSQL. Docker. MongoDB. Bootstraps
       
       #Django. #PostgreSQL. #Docker. #Javascript. #Bootstraps #python
 
-11.
-    - (prepend) https://github.com/lexxai/goit_python_web_fastapi_lect_01
+    - (prepend)  https://github.com/lexxai/goit_python_web_django_lect_02_notes
 
-      GoIT, Python WEB, Prepend Homework number 11. FastAPI. Lection Cats. PostgreSQL. Docker. Bootstraps CSS. ORM SQLAlchemy. Pydantic
+      GoIT, Python WEB, Prepend Homework number 10. Django. Lection Notes. PostgreSQL. Docker. Javascript. Pico.css
       
-      #FastAPI. #PostgreSQL. #Docker. #python, #SQLAlchemy #Pydantic
+      #Django. #PostgreSQL. #Docker. #Javascript. #Pico.css #python
 
+11.
     - (Homework)  https://github.com/lexxai/goit_python_web_hw_11
 
       GoIT, Python WEB, Homework number 11. FastAPI. PostgreSQL. Docker. REST API. ORM SQLAlchemy. Pydantic. Bootstraps CSS.
       
       #FastAPI. #PostgreSQL. #Docker. #Javascript. #Bootstraps #python #SQLAlchemy #Pydantic
+      
+    - (prepend) [https://github.com/lexxai/goit_python_web_fastapi_lect_01](https://github.com/lexxai/goit_python_web_fastapi_lect_01/tree/lection_02_repo) (part1)
+
+      GoIT, Python WEB, Prepend Homework number 11. FastAPI. Lection Cats. PostgreSQL. Docker. Bootstraps CSS. ORM SQLAlchemy. Pydantic
+      
+      #FastAPI. #PostgreSQL. #Docker. #python, #SQLAlchemy #Pydantic
 
 
 
