@@ -69,9 +69,9 @@
 11.
     - (Homework)  https://github.com/lexxai/goit_python_web_hw_11
 
-      GoIT, Python WEB, Homework number 11. FastAPI. PostgreSQL. Docker. REST API. ORM SQLAlchemy. Pydantic. Bootstraps CSS.
+      GoIT, Python WEB, Homework number 11. FastAPI. PostgreSQL. Docker. REST API. ORM SQLAlchemy. Pydantic. Bootstraps CSS. Jinga. Alembic. 
       
-      #FastAPI. #PostgreSQL. #Docker. #Javascript. #Bootstraps #python #SQLAlchemy #Pydantic
+      #FastAPI. #PostgreSQL. #Docker. #Javascript. #Bootstraps #python #SQLAlchemy #Pydantic #Jinga2 #Alembic. 
       
     - (prepend) [https://github.com/lexxai/goit_python_web_fastapi_lect_01](https://github.com/lexxai/goit_python_web_fastapi_lect_01/tree/lection_02_repo) (part1)
 
