@@ -60,7 +60,7 @@
       
       #Django. #PostgreSQL. #Docker. #Javascript. #Bootstraps #python
 
-    - (prepend)  https://github.com/lexxai/goit_python_web_django_lect_02_notes
+    - (prepend) [Django](https://github.com/lexxai/goit_python_web_django_lect_02_notes)
 
       GoIT, Python WEB, Prepend Homework number 10. Django. Lection Notes. PostgreSQL. Docker. Javascript. Pico.css
       
@@ -73,7 +73,7 @@
       
       #FastAPI. #PostgreSQL. #Docker. #Javascript. #Bootstraps #python #SQLAlchemy #Pydantic #Jinga2 #Alembic. 
       
-    - (prepend) [https://github.com/lexxai/goit_python_web_fastapi_lect_01](https://github.com/lexxai/goit_python_web_fastapi_lect_01/tree/lection_02_repo) (part1)
+    - (prepend) [FastAPI (Part1)](https://github.com/lexxai/goit_python_web_fastapi_lect_01/tree/lection_02_repo)
 
       GoIT, Python WEB, Prepend Homework number 11. FastAPI. Lection Cats. PostgreSQL. Docker. Bootstraps CSS. ORM SQLAlchemy. Pydantic
       
@@ -86,7 +86,7 @@
       
       #FastAPI. #PostgreSQL. #Docker. #Javascript. #Bootstraps #python #SQLAlchemy #Pydantic #Jinga2 #Alembic. #OAuth2. #JWT. 
       
-    - (prepend) [https://github.com/lexxai/goit_python_web_fastapi_lect_01](https://github.com/lexxai/goit_python_web_fastapi_lect_01) (part2. Auth. Front-end)
+    - (prepend) [FastAPI (Part2. Auth. JS Front-end)](https://github.com/lexxai/goit_python_web_fastapi_lect_01/tree/lect-02-client) 
   
       GoIT, Python WEB, Prepend Homework number 12. FastAPI. Lection Cats. PostgreSQL. Docker. Bootstraps CSS. ORM SQLAlchemy. Pydantic
       
