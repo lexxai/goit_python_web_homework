@@ -92,6 +92,20 @@
       
       #FastAPI. #PostgreSQL #Docker #python, #SQLAlchemy #Pydantic #OAuth2 #JWT
 
+13.
+    - (Homework)
+      - https://github.com/lexxai/goit_python_web_hw_13
+      - https://github.com/lexxai/goit_python_web_hw_10/tree/addon-hw13
+  
+      GoIT, Python WEB, Homework number 12. FastAPI. PostgreSQL. Docker. REST API. ORM SQLAlchemy. Pydantic. Bootstraps CSS. Jinga. Alembic. OAuth2. JWT. Redis. Cloudinary. Limits 
+      
+      #FastAPI. #PostgreSQL. #Docker. #Javascript. #Bootstraps #python #SQLAlchemy #Pydantic #Jinga2 #Alembic. #OAuth2. #JWT. 
+      
+    - (prepend) [FastAPI (Part3. Security. Cloudinary)](https://github.com/lexxai/goit_python_web_fastapi_lect_01/tree/cloudinary)
+    - (prepend) [Django reset_password](https://github.com/lexxai/goit_python_web_django_lect_02_notes/tree/reset_password)
+       
+      #FastAPI. #PostgreSQL #Docker #python, #SQLAlchemy #Pydantic #OAuth2 #JWT #Redis #Cloudinary #security
+
 
 
 
