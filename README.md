@@ -107,6 +107,12 @@
       #FastAPI. #PostgreSQL #Docker #python, #SQLAlchemy #Pydantic #OAuth2 #JWT #Redis #Cloudinary #security
 
 
+14.  https://github.com/lexxai/goit_python_web_hw_14
+
+     GoIT, Python WEB, Homework number 14. Documentation. Testing. PyTest. Unittest. PyDoc. Sphinx. PyTest-cov.
+
+     #python #docker #NoSQL #homework #Documentation #Testing #pytest #unittests #Sphinx
+
 
 
 
