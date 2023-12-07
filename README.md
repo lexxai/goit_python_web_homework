@@ -109,8 +109,10 @@
 
 14.  https://github.com/lexxai/goit_python_web_hw_14
 
-     GoIT, Python WEB, Homework number 14. Documentation. Testing. PyTest. Unittest. PyDoc. Sphinx. PyTest-cov.
-
+     GoIT, Python WEB, Homework number 14. Documentation. Testing. PyTest. Unittest. PyDoc. Sphinx. PyTest-cov. Deploy
+     
+     [Deploy on koyeb.com](https://github.com/lexxai/goit_python_web_hw_14/blob/main/README-DEPL.md)
+     
      #python #docker #NoSQL #homework #Documentation #Testing #pytest #unittests #Sphinx
 
 
